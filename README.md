@@ -1,4 +1,4 @@
 # Kakuro Solver in Prolog
-## LEIC-A/LEIC-T/LETI, DEI/IST/ULisboa 2020-21
+## LEIC-A, DEI/IST/ULisboa 2020-21
 
 Final project of Logic for Programming
